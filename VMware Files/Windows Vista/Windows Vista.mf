@@ -1,0 +1,2 @@
+SHA256(Windows Vista.ovf)= c781369a8320608d0af01d8510e143bb327c3387a753498c0f55a9a30856f22c
+SHA256(Windows_Vista-disk1.vmdk)= bb9609e4439df5e788fdd53f62fbc87e187ce25eb8e6ef76b09a5cc549a76a9c

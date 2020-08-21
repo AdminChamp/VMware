@@ -1,0 +1,2 @@
+SHA256(Windows Server 2012.ovf)= a712187095813be72ba1c400c82e48aef9d625df9740c12d5a3b6e7c82f74889
+SHA256(Windows_Server_2012-disk1.vmdk)= aff1cf48b1d37f89f04f99ba612aab53bb49bd7c49d301fe8e76a3478ff13ca7

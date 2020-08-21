@@ -1,0 +1,2 @@
+SHA256(Windows 2000 Server.ovf)= c9d703b7a23d9c3aed60a32cd6ed0c34b514c17f3c680b495dc9e5ae8c842dad
+SHA256(Windows_2000_Server-disk1.vmdk)= eaecf80602f62be33103b5880b1cb1ff8ed88cb16b5a7430218e6e7b0b9aaadf

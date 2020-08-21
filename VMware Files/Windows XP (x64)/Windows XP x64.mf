@@ -1,0 +1,2 @@
+SHA256(Windows XP x64.ovf)= 4583d38c0114182233cd64452e1ea24845805d5e73205104d9fe977aaf5c1ddd
+SHA256(Windows_XP_x64-disk1.vmdk)= b1a2dd8bfe4a73e285f9eabb01056ede49db2b9cfe8e6a0eafbfa8a9c647e415

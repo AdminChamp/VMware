@@ -1,0 +1,2 @@
+SHA256(Windows 3.1.ovf)= 7d9f235209d921af4c1f319a1cda0be76859e645fef638ded282528470fd9668
+SHA256(Windows_3.1-disk1.vmdk)= 96fcc42ddbb645e9de215b36d7c5bb0e7afa6a14775af8ac18cca1d48d737864
